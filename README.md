@@ -1,4 +1,4 @@
-# Pizza Insight Studio – Every Slice, Every Insight 🍕
+# Pizza Analytics Studio – Every Slice, Every Insight 🍕
 ## About
 The Pizza Insight Studio project is a comprehensive data analysis case study designed to transform raw transactional sales data into actionable business insights. Using SQL for data extraction and transformation, and Power BI/Tableau for visualization, this project simulates a real-world business intelligence workflow followed in retail and food service industries.
 
