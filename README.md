@@ -1,6 +1,6 @@
-# Pizza Sales Data Analysis
+# Pizza Insight Studio – Every Slice, Every Insight 🍕
 ## About
-The Pizza Sales Analytics project is a comprehensive data analysis case study designed to transform raw transactional sales data into actionable business insights. Using SQL for data extraction and transformation, and Power BI/Tableau for visualization, this project simulates a real-world business intelligence workflow followed in retail and food service industries.
+The Pizza Insight Studio project is a comprehensive data analysis case study designed to transform raw transactional sales data into actionable business insights. Using SQL for data extraction and transformation, and Power BI/Tableau for visualization, this project simulates a real-world business intelligence workflow followed in retail and food service industries.
 
 The dataset consists of historical pizza sales records, including order details, product information, pricing, and timestamps. By applying advanced SQL techniques such as JOINs, GROUP BY, window functions, and CTEs, the project uncovers meaningful patterns in customer purchasing behavior, revenue distribution, and product performance
 ## 🛠️ Tools & Technologies
@@ -17,6 +17,7 @@ The major aim of thie project is to gain insight into the sales data of Pizzas t
 📈 Average Order Value  
 📦 Average Pizzas Per Order  
 ## 📂 Dataset Description
+Link : https://github.com/Piyush0415/PizzaHutAnalytics/blob/main/pizza_sale_data.zip
 ### The dataset contains:
 - orders – Order date and time
 - order_details – Quantity per pizza
@@ -43,4 +44,5 @@ This project demonstrates strong data analysis skills using SQL and visualizatio
 ## 🤝 Connect With Me
 👤 Piyush Agarwal  
 Associate Data Scientist | SQL | Python | Power BI | Data Analytics  
-Linkedin : www.linkedin.com/in/piyush-agarwal-1a93003a1
+Linkedin : www.linkedin.com/in/piyush-agarwal-1a93003a1  
+Portfolio : https://dashefy.vercel.app/
